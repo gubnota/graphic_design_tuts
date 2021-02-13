@@ -1,3 +1,4 @@
-# graphic_design_tuts
-Graphic design tutorial from the channel https://www.youtube.com/c/LarryMoore
-- [Graphic tutorial playlist](https://www.youtube.com/playlist?list=PLqr4STCEUjE49Xwq0o86EGjy-UqoM-KYc)
+# [graphic design tutorials from my channel](https://www.youtube.com/c/LarryMoore)
+## [Graphic tutorial playlist](https://www.youtube.com/playlist?list=PLqr4STCEUjE49Xwq0o86EGjy-UqoM-KYc)
+* Create big Sur lookalike wallpaper:
+	* [![https://gubnota.github.io/graphic_design_tuts/Big_Sur_Graphic_day.svg](Big_Sur_Graphic_day.svg)](Big_Sur_Graphic_day.svg)
