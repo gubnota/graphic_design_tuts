@@ -1,8 +1,1 @@
 theme: jekyll-theme-tactile
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - Create_big_Sur_lookalike_wallpaper.md
